@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am a first-year PhD student at University of Chicago in the Geophysical Sciences department. My interests lie broadly in planet formation and protoplanetary disk theory and observation, as well as planetary habitability. In 2026, I received a Neubauer Fellowship at University of Chicago.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I graduated from Northeastern University in April 2026 from the Honors Program, where I completed a combined major in Physics and Math, with an Astrophysics minor. My major undergraduate research experiences include a summer term at Los Alamos National Laboratory in Materials Physics and Applications - Quantum, and an extended co-op as a Black Hole Explorer Research Intern with Harvard-Smithsonian Center for Astrophysics. In addition to research, I took leadership roles in Northeastern's Society of Physics Students as Social Media Chair and Mentor and Northeastern's Pep Band as a Section Leader.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My past research areas include astronomical instrumentation and hardware.
